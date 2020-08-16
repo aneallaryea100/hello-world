@@ -1,0 +1,112 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/**************************body styling***************************************/
+body{
+	magin:0;
+	font-family: 'Open Sans', sans-serif;
+	text-align: ;
+	background-color: ;
+	background-image: url(images/samm.jpg);
+	background-repeat: no-repeat;
+	color: white;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+
+/**************************form styling***************************************/
+#fforms{
+color:black;
+display:table;
+padding: 9px 12px;
+background-color: #F0EBFF;
+border: solid 2px #dcdcdc;
+margin: 50px auto;
+background-image: url(images/markk.);
+width: ;
+font-size: 14px;
+
+
+}
+
+div{
+	margin-bottom: 10px;
+}
+
+
+/**************************section styling***************************************/
+
+section{
+
+border: 1px solid black;
+  padding: 15px;
+  background: #F0E3FF;
+  background-clip: border-box;
+  max-width: ; 
+ 
+}
+
+/**************************heading styling***************************************/
+
+
+h4{
+	text-decoration:;
+	color:;
+	float:left;
+	padding:0 5px;
+	margin:-20px 0 0 30px;
+	background:;
+}
+
+.lastbutt{
+	text-align: center;
+}
+
+/**************************label styling***************************************/
+
+label {
+	width:150px;
+	display: inline-block;
+	text-align: right;
+}
+
+
+/**************************input styling***************************************/
+input{
+	padding:5px 6px;
+	font-size:14px ;
+	border-radius: 4px;
+}
+
+
+/**************************button styling***************************************/ 
+
+button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 15px 32px;s
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+
+
+
+
+
+
+
