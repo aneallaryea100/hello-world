@@ -1,0 +1,86 @@
+body{
+  magin:0;
+  font-family:  Verdana, sans-serif;
+  text-align: ;
+  background-color: ;
+  background-image: url(images/samm.jpg);
+  background-repeat: no-repeat;
+  color: #white;
+  background-attachment: fixed;
+  background-position: center;
+  
+}
+
+/**************************form styling***************************************/
+#fforms{
+color:black;
+display:table;
+padding: 9px 12px;
+background-color: #F0EBFF;
+border: solid 2px #dcdcdc;
+margin: 50px auto;
+background-image: url(images/markk.);
+width: ;
+font-size: 14px;
+text-align: right;
+}
+
+
+
+
+.fieldset {
+  position: relative;
+  border: 1px solid #212b38;
+  padding: 10px;
+  margin-bottom: 15px;
+  
+}
+
+.fieldset h6 {
+  position: absolute;
+  top: 0;
+  font-size: 18px;
+  line-height: 1;
+  margin: -9px 0 0; /* half of font-size */
+  background:#F0EBFF ;
+  padding: 0 3px;
+}
+
+#parentr{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+
+
+}
+
+input{
+    
+}
+
+.childr{
+  margin-right: 15px;
+}
+
+label{
+  margin:5px;
+  text-align: ;
+}
+
+.fiming{
+  margin-right: 10%;
+  display:;
+}
+
+button{
+  height:-1px;
+  width: 75px;
+  padding: 4px;
+  border-radius: -100px;
+  color: black;
+  background-color: ;
+}
+
+.lastbutt{
+  text-align: center;
+}
